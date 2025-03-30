@@ -27,7 +27,7 @@ A **secure, lightweight, and user-friendly** password manager built with **Pytho
    ```  
 3. **Run the password manager**  
    ```bash
-   python main.py
+   python password_manager.py
    ```  
 
 ## 🛡 Security Considerations  
